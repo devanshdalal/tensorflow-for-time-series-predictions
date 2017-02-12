@@ -1,0 +1,12 @@
+
+
+for categ
+
+input:
+
+timesteps: [15 vals] :: ['M1' indi values]*15 :: [categ indi values]*15?
+
+// 15*50 + 15*history 
+
+
+
